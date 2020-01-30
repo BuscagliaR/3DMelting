@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "278836410",
+    "hash" : "1023222435",
     "id" : "D7F6B3AA",
-    "lastKnownWriteTime" : 1574275938,
-    "last_content_update" : 1574275938,
-    "path" : "C:/Users/Robert/Dropbox/Northern Arizona University/Github_Repos/3DMelting/SVD_Start.R",
-    "project_path" : "SVD_Start.R",
+    "lastKnownWriteTime" : 1580418367,
+    "last_content_update" : 1580418367147,
+    "path" : "C:/Users/Robert/Dropbox/Northern Arizona University/Github_Repos/3DMelting/First_NLS_fit.R",
+    "project_path" : "First_NLS_fit.R",
     "properties" : {
+        "cursorPosition" : "34,14",
+        "scrollLine" : "26"
     },
     "read_only" : false,
     "read_only_alternatives" : [
