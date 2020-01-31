@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580443868356.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2565954857",
+    "id" : "4FC50B8B",
+    "lastKnownWriteTime" : 1580417287,
+    "last_content_update" : 1580417287,
+    "path" : "C:/Users/Robert/Dropbox/Northern Arizona University/Github_Repos/3DMelting/Zemin_First_Function.R",
+    "project_path" : "Zemin_First_Function.R",
+    "properties" : {
+        "cursorPosition" : "53,0",
+        "scrollLine" : "26"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580444108274.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1023222435",
+    "id" : "79588F2B",
+    "lastKnownWriteTime" : 1580418367,
+    "last_content_update" : 1580418367,
+    "path" : "C:/Users/Robert/Dropbox/Northern Arizona University/Github_Repos/3DMelting/First_NLS_fit.R",
+    "project_path" : "First_NLS_fit.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
