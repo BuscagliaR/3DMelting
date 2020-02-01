@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580533551499.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2972673464",
+    "id" : "B7CED459",
+    "lastKnownWriteTime" : 1580532450,
+    "last_content_update" : 1580532450,
+    "path" : "C:/Users/Robert/Dropbox/Northern Arizona University/Github_Repos/3DMelting/Confirmed_Functions_2.R",
+    "project_path" : "Confirmed_Functions_2.R",
+    "properties" : {
+        "cursorPosition" : "89,46",
+        "scrollLine" : "72",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
