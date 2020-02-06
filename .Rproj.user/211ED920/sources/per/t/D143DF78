@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581019600262.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2898286238",
+    "id" : "D143DF78",
+    "lastKnownWriteTime" : 1581022221,
+    "last_content_update" : 1581022221434,
+    "path" : "C:/Users/Robert/Dropbox/Northern Arizona University/Github_Repos/3DMelting/3DMelting_Function_Start.R",
+    "project_path" : "3DMelting_Function_Start.R",
+    "properties" : {
+        "cursorPosition" : "208,11",
+        "scrollLine" : "204"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
