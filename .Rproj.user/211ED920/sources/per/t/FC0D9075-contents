@@ -13,12 +13,30 @@ wavelengths <- seq(220, 340, 1)
 ### Visualize, maybe a 3d plot?
 
 plot(wavelengths, raw.data[,1])
-plot(temperatures, raw.data[26,])
+plot(temperatures, raw.data[55,])
 
 ### Need to run 'estimated' parameters simulation as in Mathematica
 
 ### 
 svd.temp <- svd(raw.data)
+
+temp.2 <- svd.temp$u%*%diag(svd.temp$d)%*%t(svd.temp$v)
+
+plot(temperatures, temp.2[55,])
+
+singular.temp <- svd.temp$d
+singular.temp
+
+singular.temp[3:46]<-0
+
+singular.temp
+
+temp.3 <- svd.temp$u%*%diag(singular.temp)%*%t(svd.temp$v)
+
+plot(temperatures, temp.2[55,], type='l')
+plot(temperatures, temp.3[55,], type='l')
+
+cbind(raw.data[,1],temp.2[,1], temp.3[,1])
 
 plot(wavelengths, -svd.temp$u[,1])
 plot(wavelengths, -svd.temp$u[,2])
@@ -36,7 +54,7 @@ y5 <- svd.temp$v[,5]*svd.temp$d[5]
 y6 <- svd.temp$v[,6]*svd.temp$d[6]
 x <- temperatures
 
-plot(x, y1)
+plot(x, -y1)
 plot(x, y2)
 plot(x, y3)
 plot(x, y4)
